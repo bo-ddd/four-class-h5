@@ -13,7 +13,7 @@
                 <div class="tep-text"></div>
             </div>
         </div>
-        <div class="home-footer"></div>
+        <div class="home-footer">111111</div>
     </div>
 </template>
 <style scoped>
