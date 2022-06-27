@@ -9,14 +9,14 @@
         </div>
         <div class="home-main">
             <div class="text main-title">Swipe left/right to check more</div>
+            <div class="main-tep">
+                <div class="tep-text"></div>
+            </div>
         </div>
         <div class="home-footer"></div>
     </div>
 </template>
 <style scoped>
-
-
-
 .home{
     height: 100vh;
     padding: 3.6rem;
@@ -33,6 +33,12 @@
     border-radius: 4rem;
     padding: 0.8rem 6rem;
     background: #566aa9;
+    margin: 2.6rem 0 1.2rem 0 ;
+}
+.tep-text{
+    background: #fff;
+    border-radius: 2rem;
+    height: 20rem;
 }
 
 </style>
