@@ -1,5 +1,6 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 import Home from '../views/Home/Home.vue';
+import About from '../views/About/About.vue'
 
 const routes = [{
     path: '/', //path是路径
@@ -8,6 +9,10 @@ const routes = [{
 {
     path: '/home',
     component: Home
+},
+{
+    path: '/about',
+    component: About
 },
 ]
 const router = createRouter({
