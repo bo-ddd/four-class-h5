@@ -2,10 +2,37 @@ body {
     margin: 0;
 }
 
-.flex-center {
+.flex {
+    display: flex;
+  }
+  .flex-between {
     display: flex;
     align-items: center;
-}
+    justify-content: space-between;
+  }
+  .flex-around {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .flex-colum {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .align-center {
+    display: flex;
+    align-items: center;
+  }
+  .text-align{
+    text-align: center;
+  }
 
 .text {
     color: #fff;
