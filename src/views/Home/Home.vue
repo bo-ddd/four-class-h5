@@ -10,13 +10,22 @@
         <div class="home-main">
             <div class="text main-title">Swipe left/right to check more</div>
             <div class="main-tep">
-                <div class="tep-text"></div>
+                <div class="tep-text">
+                    <div class="blue-text">#ui #ux #intoroction</div>
+                    <div class="bold-text main-text">Why do people clear the screen multiple times when using a calculator?</div>
+                    <div>
+                        <div>10 answers</div>
+                        <div>12k views</div>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="home-footer">111111</div>
+        <div class="home-footer"></div>
     </div>
 </template>
 <style scoped>
+
+
 .home{
     height: 100vh;
     padding: 3.6rem;
@@ -38,7 +47,14 @@
 .tep-text{
     background: #fff;
     border-radius: 2rem;
-    height: 20rem;
+    padding: 5rem 3.5rem 3.5rem 3.5rem;
+}
+.blue-text{
+   color:  #65bffb;
+   font-size: 1.2rem;
+}
+.main-text{
+    font-size: 2rem;
 }
 
 </style>
