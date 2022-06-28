@@ -86,18 +86,18 @@
     background: linear-gradient(#316be9,#d0c6f8,#f4e8dc);
     border-radius: 4rem 4rem 0 0;
 }
-.trend-text{
-    font-size: 2rem;
+.trend-text {
+  font-size: 2rem;
 }
-.question-text{
-    font-size: 3.5rem;
+.question-text {
+  font-size: 3.5rem;
 }
-.main-title{
-    font-size: 1rem;
-    border-radius: 4rem;
-    padding: 0.8rem 6rem;
-    background: #566aa9;
-    margin: 2.6rem 0 1.2rem 0 ;
+.main-title {
+  font-size: 1rem;
+  border-radius: 4rem;
+  padding: 0.8rem 6rem;
+  background: #566aa9;
+  margin: 2.6rem 0 1.2rem 0;
 }
 .main-tep{
     position: relative;
@@ -144,5 +144,4 @@
     width: 2.2rem;
     height: 2.2rem;
 }
-
 </style>
