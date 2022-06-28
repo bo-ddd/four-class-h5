@@ -37,3 +37,7 @@ body {
 .text {
     color: #fff;
 }
+
+.bold-text {
+    font-weight: bold;
+}
